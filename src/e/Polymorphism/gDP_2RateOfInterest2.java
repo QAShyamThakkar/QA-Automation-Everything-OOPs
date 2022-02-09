@@ -22,7 +22,7 @@ class HSBCBank1 extends Bank1 {
 
 }
 
-public class hDP_2RateOfInterest2 {
+public class gDP_2RateOfInterest2 {
 	public static void main(String[] args) {
 
 		Bank1 b;

@@ -25,7 +25,7 @@ class SmartPhone extends BasicPhone {
 }
 
 
-public class cMethodOverriding {
+public class bMethodOverriding {
 
 public static void main(String[] args) {
 	

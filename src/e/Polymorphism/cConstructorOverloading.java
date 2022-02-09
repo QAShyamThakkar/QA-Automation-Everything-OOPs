@@ -46,7 +46,7 @@ class Calc {
 
 }
 
-public class bConstructorOverloading {
+public class cConstructorOverloading {
 
 	public static void main(String[] args) {
 

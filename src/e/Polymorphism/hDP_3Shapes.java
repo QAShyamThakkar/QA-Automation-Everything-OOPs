@@ -27,7 +27,7 @@ class Triangle extends Shape {
 	}
 }
 
-public class gDP_3Shapes {
+public class hDP_3Shapes {
 	public static void main(String args[]) {
 		Shape s;
 
